@@ -8,7 +8,7 @@
 - 🌱 Currently learning **Microservices Architecture & Cloud (AWS)**
 - 🤖 Interested in **AI Agents & Machine Learning with Python**
 - 🧪 Knowledge of **Manual Testing & API Testing**
-- 📫 Reach me at: **bhushandhawan@email.com**
+- 📫 Reach me at: **bhushandhawan1999@gmail.com**
 
 ---
 
