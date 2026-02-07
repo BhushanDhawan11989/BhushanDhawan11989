@@ -1,4 +1,7 @@
 ## Hi there 👋
+## 🚀 My Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,git,github,maven,postman,react,aws,docker,linux,vscode)](https://skillicons.dev)
 
 <!--
 **BhushanDhawan11989/BhushanDhawan11989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
