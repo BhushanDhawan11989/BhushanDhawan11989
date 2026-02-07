@@ -1,5 +1,16 @@
-## Hi there 👋
-## 🚀 My Tech Stack
+# Hi 👋 I'm Bhushan Dhawan
+
+💻 Java Backend Developer  
+🌱 Currently learning Microservices & Cloud  
+🧠 Interested in AI Agents & Machine Learning  
+📫 Reach me: bhushandhawan@email.com
+
+<h2 align="center">🚀 My Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,aws,docker,git,github,react,linux,vscode" />
+</p>
+
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,git,github,maven,postman,react,aws,docker,linux,vscode)](https://skillicons.dev)
 ## 💻 Backend
